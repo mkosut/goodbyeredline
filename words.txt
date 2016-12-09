@@ -4,6 +4,7 @@ Ada
 booting
 bootstrapping
 daemon
+Hackathon
 GNU
 Gentoo
 Ubuntu
